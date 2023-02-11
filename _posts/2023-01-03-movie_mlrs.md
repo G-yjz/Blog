@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 美丽人生
-date: 2023-01-03
-tags: 观影
+#layout: post
+#title: 美丽人生
+#date: 2023-01-03
+#tags: 观影
 ---
 
 ##### 即便身处苦难，我亦乐观绽放
